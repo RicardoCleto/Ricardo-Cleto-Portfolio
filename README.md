@@ -15,7 +15,7 @@ Language used: Kotlin (on Intelij)
         ➤ Console Output (Example):
         
            • #1 Build a simple menu:
-               ![](/images/portfolio1.PNG)
+               ![](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/images/portfolio1.PNG?raw=true)
               
            • #2 Introduce Player1 and Player2 names: 
                ![](/images/portfolio2.PNG)
