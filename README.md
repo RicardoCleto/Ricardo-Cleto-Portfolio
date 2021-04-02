@@ -19,13 +19,17 @@ Language used: Kotlin (on Intelij)
   ![](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/images/portfolio1.PNG)
               
 • #2 Introduce Player1 and Player2 names: 
+
   ![](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/images/portfolio2.PNG)
                
-• #3 Choose how many columns and how many lines you want to build the table with;: 
+• #3 Choose how many columns and how many lines you want to build the table with: 
+
   ![](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/images/portfolio3.PNG)
                
 • #4 Choose if you want to see the Legends and Pieces on the chess: 
+
   ![](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/images/portfolio4.PNG)
                
 • #5 Final Table Chess: 
+
   ![](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/images/portfolio5.PNG)
