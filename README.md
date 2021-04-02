@@ -11,4 +11,4 @@ My Personal Portfolio (Computer Engeneering):
       *   #3 Choose how many columns and how many lines you want to build the table with;
       *   #4 Choose if you want to see the Legends and Pieces on the chess;
 
-
+      Language used: Kotlin (on Intelij)
