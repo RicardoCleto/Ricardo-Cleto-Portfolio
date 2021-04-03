@@ -6,7 +6,7 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 **My Personal Portfolio (Computer Engeneering)**
 
 
-# **🡺♚ ♛Chess Table Game (Part 1):♛ ♚**:    
+# **🡺♚ ♛Chess Table Game (Part 1):**:    
 
 **Language used: Kotlin (on Intelij)**
 
@@ -48,13 +48,13 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 
   ![](/images/portfolio5.png)
 
-# **🡺Chess Table Game (Part 2):**
+# **🡺♚ ♛Chess Table Game (Part 2):**
 
  **(Comming in September 2021)**
  
  ![](/images/comingsoon.jpg)
 
-# **🡺🏐Volleyball Trajectory:🏐**
+# **🡺🏐Volleyball Trajectory:**
  
  **(Comming Soon)**
  
