@@ -7,9 +7,13 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
                  
 **Languages I know:**                 
   • Java [★★★★★]
+  
   • Kotlin [★★★★★]
+  
   • C [★★★★☆]
+  
   • Python [★★☆☆☆]
+  
                  
 # **🡺♟♙Chess Table Game (Part 1):**    
 
