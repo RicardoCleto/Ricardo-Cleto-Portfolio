@@ -37,11 +37,11 @@ My Personal Portfolio (Computer Engeneering):
                
 • #4 Choose if you want to see the Legends and Pieces on the chess: 
 
-  ![](/images/portfolio4.PNG)
+  ![](/images/portfolio4.png)
                
 • #5 Final Table Chess: 
 
-  ![](/images/portfolio5.PNG)
+  ![](/images/portfolio5.png)
 
 # **🡺Chess Table Game (Part 2):**
 
