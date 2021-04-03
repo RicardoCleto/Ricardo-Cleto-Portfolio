@@ -9,7 +9,9 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 | Languages | Skill Level |
 | --------- | ----------- |
 |    Java   |   ★★★★★   |
-| Languages | Skill Level |
+| Kotlin | ★★★★★ |
+| C | ★★★★☆ |
+| Python | ★★☆☆☆ |
           
           
           
