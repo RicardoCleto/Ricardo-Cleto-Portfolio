@@ -1,7 +1,7 @@
 # Ricardo Cleto 
 My Personal Portfolio (Computer Engeneering):
 
-# 🡺Chess Table Game (Part 1):    
+# **🡺Chess Table Game (Part 1)**:    
 
 **Language used: Kotlin (on Intelij)**
 
@@ -45,6 +45,6 @@ My Personal Portfolio (Computer Engeneering):
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
- # 🡺Volleibal Trajectory:
+ # **🡺Volleibal Trajectory:**
  
  **(Building Soon)**
