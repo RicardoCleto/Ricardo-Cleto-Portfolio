@@ -12,6 +12,7 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 | Kotlin | ★★★★★ |
 | C | ★★★★☆ |
 | Python | ★★☆☆☆ |
+| C# | ★★☆☆☆ |
                    
 # **🡺♟♙Chess Table Game (Part 1):**    
 
