@@ -43,8 +43,6 @@ My Personal Portfolio (Computer Engeneering):
 
   ![](/images/portfolio5.PNG)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
-# **Volleyball Trajectory:**
+# **🡺Volleyball Trajectory:**
  
  **(Building Soon)**
