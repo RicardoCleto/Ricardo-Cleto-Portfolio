@@ -6,7 +6,7 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 **My Personal Portfolio (Computer Engeneering)**
           
           
-| Languages | Skill Level |
+| Languages: | Skill Level: |
 | --------- | ----------- |
 |    Java   |   ★★★★★   |
 | Kotlin | ★★★★★ |
