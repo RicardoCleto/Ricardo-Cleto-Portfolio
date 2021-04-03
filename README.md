@@ -43,6 +43,10 @@ My Personal Portfolio (Computer Engeneering):
 
   ![](/images/portfolio5.PNG)
 
+# **🡺Chess Table Game (Part 2):**
+
+ **(Comming in September 2021)**
+
 # **🡺Volleyball Trajectory:**
  
- **(Building Soon)**
+ **(Comming Soon)**
