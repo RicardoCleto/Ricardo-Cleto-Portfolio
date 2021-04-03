@@ -12,22 +12,7 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 | Kotlin | ★★★★★ |
 | C | ★★★★☆ |
 | Python | ★★☆☆☆ |
-          
-          
-          
-          
-          
-          
-**Languages I know:**                 
-  • Java [★★★★★]
-  
-  • Kotlin [★★★★★]
-  
-  • C [★★★★☆]
-  
-  • Python [★★☆☆☆]
-  
-                 
+                   
 # **🡺♟♙Chess Table Game (Part 1):**    
 
 **Language used: Kotlin (on Intelij)**
