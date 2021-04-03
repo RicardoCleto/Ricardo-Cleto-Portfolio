@@ -1,11 +1,6 @@
 # Ricardo.Cleto_Personal-Portfolio
 My Personal Portfolio (Computer Engeneering):
 
-# 🡺Presentation letter:
-  
-   •[**My Presentation**](/AboutMe/Carta%20de%20apresenta%C3%A7%C3%A3o(Competencias%20Comportamentais).docx)
-   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🡺Chess Table Game (Part 1):    
 
 **Language used: Kotlin (on Intelij)**
