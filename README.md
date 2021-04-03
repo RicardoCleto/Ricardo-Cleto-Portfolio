@@ -1,4 +1,4 @@
-# Ricardo.Cleto_Personal-Portfolio
+# Ricardo Cleto 
 My Personal Portfolio (Computer Engeneering):
 
 # 🡺Chess Table Game (Part 1):    
