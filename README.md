@@ -54,7 +54,7 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
  
  ![](/images/comingsoon.jpg)
 
-# **🡺Volleyball Trajectory:**
+# **🡺🏐Volleyball Trajectory:🏐**
  
  **(Comming Soon)**
  
