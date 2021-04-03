@@ -14,6 +14,7 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 | Python | ★★☆☆☆ |
 | C# | ★★☆☆☆ |
                    
+_________________________________________________________________________________________________________________________________________________________________________________                   
 # **🡺♟♙Chess Table Game (Part 1):**    
 
 **Language used: Kotlin (on Intelij)**
