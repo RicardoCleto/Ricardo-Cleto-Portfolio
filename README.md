@@ -1,11 +1,7 @@
 # 👋🏼 Hi, I’m Ricardo Cleto!
 
 I’m currently learning Computer Engeneering in Universidade Lusófona de Humanidades e Tecnologias (ULHT)!
-
-
-**My Personal Portfolio (Computer Engeneering)**
-          
-          
+                
 | Languages: | Skill Level: |
 | --------- | ----------- |
 |    Java   |   ★★★★★   |
