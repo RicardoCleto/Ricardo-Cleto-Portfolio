@@ -14,6 +14,8 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 
 ➤[**Click Here to see my LinkedIn**](https://www.linkedin.com/in/ricardo-cleto-8114b5208/)
 
+➤[**Click Here to see Presentation Letter (in Portuguese)**](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/Carta%20de%20Apresenta%C3%A7%C3%A3o/Carta%20de%20apresenta%C3%A7%C3%A3o(Competencias%20Comportamentais)-convertido.pdf)
+
 _________________________________________________________________________________________________________________________________________________________________________________                 
 
 
