@@ -18,6 +18,8 @@ ________________________________________________________________________________
 **Language used: Kotlin (on Intelij)**
 
   ➤[**Click Here to see the Project**](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/tree/main/Projeto1%20Fundamentos%20Programa%C3%A7%C3%A3o%20(Completo))
+  
+  ➤[**Click Here to see my CV**](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/CV/RicardoCletoCV(Original).pdf)
      
  ➤ Here you will see how to, and how is supposed to build the chess table with some colors to your liking:
       
