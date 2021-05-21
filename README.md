@@ -11,7 +11,6 @@ I’m currently learning Computer Engeneering in Universidade Lusófona de Human
 | C# | ★★☆☆☆ |   
 
 
-
 ➤[**Click Here to see my curriculum vitae (CV)**](https://github.com/RicardoCleto/Ricardo.Cleto_Personal-Portfolio/blob/main/CV/RicardoCletoCV(Original).pdf)
 
 ➤[**Click Here to see my LinkedIn**](https://www.linkedin.com/in/ricardo-cleto-8114b5208/)
